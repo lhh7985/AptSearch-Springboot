@@ -26,9 +26,9 @@
         
 ## 5. 실행 화면
 
- - 고객사 정보
+ - 아파트 매물 정보
 <img width="1000" src="https://user-images.githubusercontent.com/59523147/121779786-66065e80-cbd8-11eb-806d-c6c5601ac0f5.png">
 
- - 직원 정보
+ - 사용자 
 <img width="1000" src="https://user-images.githubusercontent.com/59523147/121779801-7585a780-cbd8-11eb-8ed5-f382a47ede46.png">
 
